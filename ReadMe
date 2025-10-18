@@ -1,0 +1,18 @@
+# Quotes Web Scraper (Python + MySQL + Visualization)
+
+This project scrapes quotes from [quotes.toscrape.com](https://quotes.toscrape.com), stores them in MySQL, and visualizes:
+- Top 10 authors
+- Quotes containing “life” or “love”
+- Most common tags
+
+## 🛠️ Tech Stack
+- Python
+- MySQL
+- BeautifulSoup
+- Pandas
+- Seaborn / Matplotlib
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python main.py
