@@ -2,21 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%90+Generating+Insights+From+WebScraping+%E2%9C%A8;Scrape+%E2%9C%A8+Store+%E2%9C%A8+Analyze+%E2%9C%A8+Visualize;Turn+Raw+Web+Data+Into+Actionable+Insights+%F0%9F%92%AD;Data+Pipeline+Built+with+Python+%2B+MySQL+%2B+Seaborn+%F0%9F%94%A5">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="project-banner"/>
-</p>
-
 <h3 align="center">
   <b>📊 A Complete, Production-Ready Data Pipeline:</b> <i>Scrape → Store → Analyze → Visualize</i>
 </h3>
-
-<p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-6DB33F?style=for-the-badge&logo=leaflet&logoColor=white"></a>
-  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-FFB400?style=for-the-badge"></a>
-  <a href="#"><img alt="License" src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge"></a>
-</p>
 
 ---
 
@@ -41,15 +29,23 @@ From scraping live data with `BeautifulSoup`, storing it in **MySQL**, performin
 
 ---
 
-## 🧠 Tech Stack
+## 🌐 Web Scraping Tech Stack
 
-| Layer | Tools |
-|-------|-------|
-| **Scraping** | `requests`, `beautifulsoup4` |
-| **Database** | `MySQL` via `mysql-connector-python` |
-| **Data Analysis** | `pandas`, `numpy` |
-| **Visualization** | `matplotlib`, `seaborn` |
-| **Version Control** | `git`, `GitHub` |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-6DB33F?style=for-the-badge&logo=leaflet&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=fastapi&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-FFB400?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j5hQ
 
 ---
 
